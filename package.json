@@ -1,9 +1,9 @@
 {
-    "name": "decode-base64", 
-    "license": "MIT", 
-    "author": "xKerman", 
-    "version": "0.1", 
-    "fullName": "decode-base64", 
-    "id": "jid1-8QJzVzByClwWwg", 
+    "name": "decode-base64-message",
+    "license": "MIT",
+    "author": "xKerman",
+    "version": "0.1",
+    "fullName": "decode-base64-message",
+    "id": "jid1-8QJzVzByClwWwg",
     "description": "decode base64 text which is selected by uesr"
 }
